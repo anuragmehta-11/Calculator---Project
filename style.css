@@ -1,0 +1,35 @@
+html,body {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  color: white;
+  background-color: rgb(145, 145, 145);
+  border: 2px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.row {
+  margin: 8px 0;
+  
+}
+
+.row input {
+  width: 300px;
+  font-size: 20px;
+  margin: 0;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
