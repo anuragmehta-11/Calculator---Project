@@ -1,10 +1,7 @@
 .text-center {
   text-align: center;
-  color: white;
-  
+  color: white; 
 }
-
-
 
 .mx-auto {
   margin: auto;
